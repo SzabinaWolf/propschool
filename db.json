@@ -1,0 +1,92 @@
+{
+  "kategoriak": [
+    {
+      "id": 1,
+      "megnevezes": "Ház"
+    },
+    {
+      "id": 2,
+      "megnevezes": "Nyaraló"
+    },
+    {
+      "id": 3,
+      "megnevezes": "Lakás"
+    },
+    {
+      "id": 4,
+      "megnevezes": "Telek"
+    },
+    {
+      "id": 5,
+      "megnevezes": "Garázs"
+    },
+    {
+      "id": 6,
+      "megnevezes": "Ipari ingatlan"
+    }
+  ],
+  "ingatlan": [
+    {
+      "id": 1,
+      "kategoriaid": 1,
+      "leiras": "Kertvárosi részen, egyszintes házat kínálunk ...",
+      "hirdetesDatuma": "2022.02.27",
+      "tehermentes": true,
+      "kepUrl": "https://kulcsrakesz.hu/wp-content/uploads/2022/11/EXA-CS-17-01.jpg"
+    },
+    {
+      "id": 2,
+      "kategoriaid": 2,
+      "leiras": "Felújításra szoruló zöld övezetben ...,",
+      "hirdetesDatuma": "2022.03.01",
+      "tehermentes": false,
+      "kepUrl": "https://nlc.p3k.hu/data/cikk/14/132109/2.jpg"
+    },
+    {
+      "kategoriaid": "2",
+      "hirdetesDatuma": "2023-06-03",
+      "leiras": "Nyaraló",
+      "kepUrl": "ujIngatlan",
+      "tehermentes": true,
+      "id": 3
+    },
+    {
+      "kategoriaid": "2",
+      "hirdetesDatuma": "2023-06-03",
+      "leiras": "Nyaraló",
+      "kepUrl": "ujIngatlan",
+      "tehermentes": true,
+      "id": 4
+    },
+    {
+      "kategoriaid": "1",
+      "hirdetesDatuma": "2023-06-13",
+      "leiras": "Házikó",
+      "tehermentes": true,
+      "kepUrl": "https://hips.hearstapps.com/hmg-prod/images/suburban-house-royalty-free-image-1584972559.jpg?resize=1200:*",
+      "id": 5
+    },
+    {
+      "tehermentes": true,
+      "hirdetesDatuma": "2023.06.03",
+      "kategoriaid": "2",
+      "leiras": "eee",
+      "kepUrl": "https://hips.hearstapps.com/hmg-prod/images/suburban-house-royalty-free-image-1584972559.jpg?resize=1200:*",
+      "id": 6
+    },
+    {
+      "tehermentes": true,
+      "hirdetesDatuma": "2023.06.03",
+      "kategoriaid": "3",
+      "leiras": "Kis lakás",
+      "id": 7
+    },
+    {
+      "tehermentes": true,
+      "hirdetesDatuma": "2023.06.03",
+      "kategoriaid": "3",
+      "leiras": "daADa",
+      "id": 8
+    }
+  ]
+}
